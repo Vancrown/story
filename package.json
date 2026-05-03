@@ -4,8 +4,8 @@
   "description": "Story docs site",
   "private": true,
   "scripts": {
-    "dev": "NODE_OPTIONS='--localstorage-file=/tmp/next-localstorage.db' next dev",
-    "build": "NODE_OPTIONS='--localstorage-file=/tmp/next-localstorage.db' next build",
+    "dev": "next dev",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {

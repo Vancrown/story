@@ -1,23 +1,19 @@
-# Nextra Docs Template 
+# Story
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+Documentation site built with [Nextra](https://nextra.site), [Next.js](https://nextjs.org), [Tailwind CSS](https://tailwindcss.com), and [shadcn/ui](https://ui.shadcn.com).
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Getting Started
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+```bash
+pnpm i
+pnpm dev
+```
 
-## Quick Start
+Open [http://localhost:3000](http://localhost:3000) to view the docs.
 
-Click the button to clone this repository and deploy it on Vercel:
+## Tech Stack
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+- **Framework:** Next.js 14 + Nextra 3
+- **Styling:** Tailwind CSS + shadcn/ui
+- **Language:** TypeScript
+- **Package Manager:** pnpm
