@@ -8,7 +8,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: "https://github.com/Vancrown/story/tree/main",
   footer: {
-    text: "My Project Docs",
+    content: <span>My Project Docs</span>,
   },
   feedback: {
     content: null,
